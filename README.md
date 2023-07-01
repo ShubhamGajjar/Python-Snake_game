@@ -5,7 +5,7 @@ Please Import the following modules before executing:
 import pygame
 
 To import this open your terminal/command prompt and copy and paste the following:
-pip install pygame
+"pip install pygame"
 
 If that doesnt work try following:
-pip3 install pygame
+"pip3 install pygame"
